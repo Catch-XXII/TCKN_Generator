@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "TCKN_generator_cgultekink"
+name = "TCKN_generator"
 version = "0.0.1"
 authors = [{name="Kadir Kaya", email = "kadir.kaya2859@gmail.com"}, {name="Cuneyd Kaya", email = "cgultekink@gmail.com"}]
 description = "Turkish citizen idendity number generator and validator python package for test purposes only"

@@ -11,7 +11,7 @@ generator()
 ```
 
 call validator function with any tckn as a string which you want to test
-returns a tuple which holds bool and tckn value
+returns a tuple which holds bool and tckn:str value
 ```commandline
 validator('tckn')
 :returns
