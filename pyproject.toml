@@ -16,5 +16,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = ""
-"Bug Tracker" = ""
+"Homepage" = "https://github.com/Catch-XXII/TCKN_Generator"
+"Bug Tracker" = "https://github.com/Catch-XXII/TCKN_Generator/issues"
